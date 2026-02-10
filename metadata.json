@@ -1,0 +1,5 @@
+{
+  "description": "A first-person and third-person snake game.",
+  "requestFramePermissions": [],
+  "name": "Snake.ion"
+}
